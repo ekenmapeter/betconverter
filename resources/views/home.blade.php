@@ -14,10 +14,10 @@
     <div class="row">
         <div class="col-2 col-lg-2 ">
             <img class="img-style" src="{{asset('img/betcompany/bet9jalogo.png')}}">
-    </div>
+        </div>
         <div class="col">
             <a href="/bet9ja-betking" class="btn btn-primary btn-lg px-4 me-sm-3 fw-bold" type="button"> Bet9ja to BetKing</a>
-    </div>
+        </div>
     <br>
     <div class="col ">
         <a class="btn btn-primary btn-lg px-4 me-sm-3 fw-bold" type="button"> Bet9ja to SportyBet</a>
@@ -36,9 +36,9 @@
     <div class="row">
         <div class="col-2 col-lg-2 ">
             <img class="img-style" src="{{asset('img/betcompany/betkinglogo.png')}}">
-    </div>
+    ````</div>
         <div class="col"><a class="btn btn-warning btn-lg px-4 me-sm-3 fw-bold" type="button"> BetKing to Bet9ja</a>
-    </div>
+    ````</div>
     <br>
     <div class="col"><a class="btn btn-warning btn-lg px-4 me-sm-3 fw-bold" type="button"> BetKing to SportyBet</a>
     </div>
